@@ -1,5 +1,5 @@
 {
-  "name": "@shprogramacao/ngx-currency",
+  "name": "ngx-currency",
   "version": "21.0.1-ng20.0.1",
   "scripts": {
     "ng": "ng",
