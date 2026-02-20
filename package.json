@@ -1,6 +1,6 @@
 {
   "name": "@shprogramacao/ngx-currency",
-  "version": "21.0.1-ng20.0.1"
+  "version": "21.0.1-ng20.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
